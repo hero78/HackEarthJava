@@ -11,7 +11,6 @@ package hackerearthtraining.subArray;
  */
 // Java program to print largest contiguous
 // array sum
-import java.io.*;
  
 class GFG {
  
